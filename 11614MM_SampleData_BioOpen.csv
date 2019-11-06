@@ -1,0 +1,17 @@
+﻿Genotype,Age (days),Sex,Developmental stage,Sample_ID,Plate_ID,EdGen_ID,User_ID,Well_Location,Species,User_Conc,EdGen_Conc,RIN
+da>+,3,male,adult,Control_3days_01,11614MMPlate01,11614MM0001,20190129.CDR01,A01,D. melanogaster,389.2,408.81,9.9
+da>+,3,male,adult,Control_3days_02,11614MMPlate01,11614MM0002,20190129.CDR02,A02,D. melanogaster,283.9,328.03,10
+da>+,3,male,adult,Control_3days_03,11614MMPlate01,11614MM0003,20190129.CDR03,A03,D. melanogaster,323,302.93,9.7
+da>+,3,male,adult,Control_3days_04,11614MMPlate01,11614MM0004,20190129.CDR04,A04,D. melanogaster,336.8,319,10
+da>MitoER short 1,3,male,adult,Linker_3days_01,11614MMPlate01,11614MM0005,20190129.CDR05,A05,D. melanogaster,319.8,302.02,10
+da>MitoER short 1,3,male,adult,Linker_3days_02,11614MMPlate01,11614MM0006,20190129.CDR06,A06,D. melanogaster,347.7,353.35,10
+da>MitoER short 1,3,male,adult,Linker_3days_03,11614MMPlate01,11614MM0007,20190129.CDR07,A07,D. melanogaster,269,255.01,10
+da>MitoER short 1,3,male,adult,Linker_3days_04,11614MMPlate01,11614MM0008,20190129.CDR08,A08,D. melanogaster,368.1,374.38,10
+da>+,30,male,adult,Control_30days_01,11614MMPlate01,11614MM0013,20190129.CDR13,B01,D. melanogaster,159.7,158.63,10
+da>+,30,male,adult,Control_30days_02,11614MMPlate01,11614MM0014,20190129.CDR14,B02,D. melanogaster,179.2,186.85,10
+da>+,30,male,adult,Control_30days_03,11614MMPlate01,11614MM0015,20190129.CDR15,B03,D. melanogaster,216.5,172.34,10
+da>+,30,male,adult,Control_30days_04,11614MMPlate01,11614MM0016,20190129.CDR16,B04,D. melanogaster,157,180.77,9.9
+da>MitoER short 1,30,male,adult,Linker_30days_01,11614MMPlate01,11614MM0017,20190129.CDR17,B05,D. melanogaster,131.9,128.59,9.8
+da>MitoER short 1,30,male,adult,Linker_30days_02,11614MMPlate01,11614MM0018,20190129.CDR18,B06,D. melanogaster,130.8,120.93,10
+da>MitoER short 1,30,male,adult,Linker_30days_03,11614MMPlate01,11614MM0019,20190129.CDR19,B07,D. melanogaster,145.6,134.84,10
+da>MitoER short 1,30,male,adult,Linker_30days_04,11614MMPlate01,11614MM0020,20190129.CDR20,B08,D. melanogaster,133.9,128.79,9.8
