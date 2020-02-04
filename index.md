@@ -1733,8 +1733,8 @@ data.fit$coefficients[1:10,]</code></pre>
 ## 18130015      2.199753       3.176709     2.162428      2.612304
 ## 18130017      2.538511       3.115224     2.785309      3.099264
 ## 18130019      1.795543       1.640211     1.711993      1.791020</code></pre>
-<pre class="r"><code>contrast.matrix = makeContrasts(Control_3days-Linker_3days,
-                                Control_30days-Linker_30days,
+<pre class="r"><code>contrast.matrix = makeContrasts(Linker_3days-Control_3days,
+                                Linker_30days-Control_30days,
                                 levels=design)
 data.fit.con = contrasts.fit(data.fit,contrast.matrix)
 data.fit.eb = eBayes(data.fit.con)
